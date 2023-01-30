@@ -1,2 +1,2 @@
-# WIDS-IITB-
-This Project from IIT Bombay
+# WIDS-(IITB)
+ Winter Project from IIT Bombay 
